@@ -49,3 +49,6 @@ Distributed scraping: Large-scale projects may distribute scraping tasks across 
 
 Conclusion
 In summary, a web scraper is a versatile and efficient tool for extracting structured data from the vast resources of the internet. When used responsibly, it can unlock valuable insights, automate tedious tasks, and support data-driven decision-making. However, developers must balance technical capabilities with ethical practices to ensure fair and lawful data collection. 
+
+## OUTPUT:-
+![Image](https://github.com/user-attachments/assets/93d68d54-75ff-4276-b08d-5aa6e075d769)
